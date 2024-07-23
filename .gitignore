@@ -1,0 +1,19 @@
+# dependencies
+**/node_modules
+
+# IDE - VSCode
+.vscode/
+
+# misc
+.pnpm-debug.log
+pnpm-debug.log
+lerna-debug.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Distribution folders
+dist
+tsconfig.tsbuildinfo
+tsconfig.*.tsbuildinfo
